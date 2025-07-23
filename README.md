@@ -1,3 +1,4 @@
+![My Badge](badge.png)
 # 💻 My C Language Practice Vault
 
 These C programs were built during my self-learning journey through the tutorials of Haris Ali Khan, popularly known as "CodeWithHarry".  
